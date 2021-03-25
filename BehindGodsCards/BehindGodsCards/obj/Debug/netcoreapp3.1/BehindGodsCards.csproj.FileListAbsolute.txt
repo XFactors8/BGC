@@ -1,0 +1,425 @@
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csprojAssemblyReference.cache
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfoInputs.cache
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfo.cs
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.exe
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.deps.json
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.json
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.dev.json
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CopyComplete
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\cyril\Desktop\Ynov\B1\Yday's\Behind Gods Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csprojAssemblyReference.cache
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfoInputs.cache
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfo.cs
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CoreCompileInputs.cache
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.exe
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.deps.json
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.json
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.dev.json
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CopyComplete
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_1.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_2.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_3.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_1.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_2.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_3.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_1.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_2.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_3.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_1.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_2.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_3.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\titremenu.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\YnovLogo.xnb
+C:\BehindGodsCard\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\bgBGC.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\bgBGC.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_1.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_2.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_3.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_1.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_2.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_3.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_1.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_2.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_3.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_1.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_2.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_3.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\titremenu.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\YnovLogo.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.exe
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.deps.json
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.json
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.dev.json
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csprojAssemblyReference.cache
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfoInputs.cache
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfo.cs
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CoreCompileInputs.cache
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CopyComplete
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csprojAssemblyReference.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfoInputs.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfo.cs
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\bgBGC.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\titremenu.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\YnovLogo.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.exe
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.deps.json
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.json
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.dev.json
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CopyComplete
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\MapBackground.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\SampleChracter.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\MapBackground.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\SampleChracter.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuAudio\SelectedSound.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\MapBackground.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\SampleChracter.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuAudio\SelectedSound.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\bgBGC.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_3.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\titremenu.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\YnovLogo.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.exe
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.deps.json
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.json
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.dev.json
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csprojAssemblyReference.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfoInputs.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfo.cs
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CoreCompileInputs.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CopyComplete
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWakl0.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk1.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk2.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWak0.xnb
+C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk0.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csprojAssemblyReference.cache
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfoInputs.cache
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfo.cs
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CoreCompileInputs.cache
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWak0.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWakl0.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\SampleChracter.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk0.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk2.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\MapBackground.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuAudio\SelectedSound.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\bgBGC.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_2.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_3.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_2.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_3.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_2.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_3.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_2.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_3.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\titremenu.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\YnovLogo.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.exe
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.deps.json
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.json
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.dev.json
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CopyComplete
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\Portal.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Menu.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Stats.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Units.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Upgrade.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Attack.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\AttackClicked.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\AttackSelected.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\AttackSelectedClicked.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Cover.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\CoverClicked.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\CoverSelected.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\CoverSelectedClicked.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Defend.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\DefendClicked.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\DefendSelected.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\DefendSelectedClicked.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack0.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack2.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack3.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacIdle0.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacIdle1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick0.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick1.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick2.xnb
+C:\Users\Nanaka\Desktop\Professionnel\Ynov\B1\Ydays\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick3.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWak0.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWakl0.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\SampleChracter.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack0.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack2.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacAttack3.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacIdle0.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacIdle1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick0.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick2.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CacKick3.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk0.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\CharacterWalk2.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Attack.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\AttackClicked.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\AttackSelected.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\AttackSelectedClicked.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Cover.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\CoverClicked.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\CoverSelected.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\CoverSelectedClicked.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Defend.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\DefendClicked.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\DefendSelected.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\DefendSelectedClicked.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Menu.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Stats.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Units.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\HUD\Upgrade.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\MapBackground.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\Portal.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuAudio\SelectedSound.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\bgBGC.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_2.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\credits_sprite_3.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_2.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\option_sprite_3.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_2.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\play_sprite_3.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_1.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_2.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\quit_sprite_3.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\titremenu.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuContent\YnovLogo.xnb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.exe
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.deps.json
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.json
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.runtimeconfig.dev.json
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csprojAssemblyReference.cache
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfoInputs.cache
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.AssemblyInfo.cs
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CoreCompileInputs.cache
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.csproj.CopyComplete
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.dll
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.pdb
+C:\Nouveau dossier (2)\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache

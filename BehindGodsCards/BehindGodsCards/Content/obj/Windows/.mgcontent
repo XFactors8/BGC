@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacAttack0.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacAttack1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacAttack2.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacAttack3.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacIdle0.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacIdle1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacKick0.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacKick1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacKick2.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CacKick3.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CharacterWalk0.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CharacterWalk1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/CharacterWalk2.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/Attack.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/AttackClicked.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/AttackSelected.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/AttackSelectedClicked.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/Cover.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/CoverClicked.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/CoverSelected.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/CoverSelectedClicked.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/Defend.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/DefendClicked.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/DefendSelected.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/DefendSelectedClicked.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/Menu.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/Stats.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/Units.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/HUD/Upgrade.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/MapBackground.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/GameContent/Portal.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuAudio/SelectedSound.wav</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/bgBGC.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_2.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_3.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_2.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_3.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_2.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_3.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_1.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_2.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_3.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/titremenu.png</File>
+    <File>C:/Users/Nanaka/Desktop/Professionnel/Ynov/B1/Ydays/BehindGodsCards/BehindGodsCards/Content/MenuContent/YnovLogo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
